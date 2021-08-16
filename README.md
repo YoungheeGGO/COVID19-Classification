@@ -19,7 +19,7 @@
  # 덧,
  + Efficient Net
  - Overfitting 발생
- - 아마도 확진자 데이터가 적어서 Auto-Augmentation 을 진행했는데, 이것이 원인이 된 것 같다.
+  - 아마도 확진자 데이터가 적어서 Auto-Augmentation 을 진행했는데, 이것이 원인이 된 것 같다.
 
 + VGG, DenseNet, WideResNet 에서는 EffNet만큼의 오버피팅 발생하지 않음.
- - EfficientNet이 하이퍼 파라미터의 수가 더 적어서 오퍼피팅 발생 가능성을 더 높이는 것이 아닌가.. 라는 생각이 든다!
+  - EfficientNet이 하이퍼 파라미터의 수가 더 적어서 오퍼피팅 발생 가능성을 더 높이는 것이 아닌가.. 라는 생각이 든다!
