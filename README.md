@@ -18,7 +18,7 @@
  
  # 덧,
 - Efficient Net
-  - Overfitting 발생 (Train data와 Validation data 차이 심각)
+  - Overfitting 발생 (Train data와 Validation data 차이 심각 -> Test data가기 전부터 과적합됨)
   - 아마도 확진자 데이터가 적어서 Auto-Augmentation 을 진행했는데, 이것이 원인이 된 것 같다.
 
 - VGG, DenseNet, WideResNet 에서는 EffNet만큼의 오버피팅 발생하지 않음.
