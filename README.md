@@ -16,7 +16,7 @@
  # 느낀 점
  > 우선 논문마다, 사이트 마다 용어가 달랐다. 내가 읽은 mobile net과 effecient net 같은 경우, filter라고 되어있는 부분이 어떤 사이트에서는 window라고도 하고, 어떤 곳에서는 kernel이라고 표현했다. 그 용어가 똑같은 개념이라는 것을 인식하기 까지 굉장히 헷갈렸다.
  
- **덧,**
+ # 덧,
  + Efficient Net
  - Overfitting 발생
  - 아마도 확진자 데이터가 적어서 Auto-Augmentation 을 진행했는데, 이것이 원인이 된 것 같다.
